@@ -342,7 +342,7 @@ def sustitucion_trig_section():
         ui.label('Método por Sustitución Trigonométrica').classes('section-title')
         with ui.row().classes('w-full gap-8 items-center'):
             with ui.column().classes('flex-1'):
-                ui.image('https://s3.eu-central-1.amazonaws.com/studysmarter-mediafiles/media/1865576/summary_images/trig8f1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4OLDUDE42UZHAIET%2F20250603%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20250603T094632Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a9bd7966359e044185f05ebe90e16cecd82a78dcd159ac452f18cdb353578e96').classes('section-image')
+                ui.image('https://cienciayt.com/wp-content/uploads/matematicas/calculo-integral/sustitucion-trigonometrica-a.png').classes('section-image')
             with ui.column().classes('flex-1'):
                 ui.html('''
                     <p class="section-text">
